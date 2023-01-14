@@ -42,8 +42,6 @@ let atletas = [
             })
             let media=soma/notasAtleta.length
             console.log(Média, Válida, $,{media})
-            console.log()
-            console.log('nova feature')
             break
             default:
                 console.log("Atleta não cadastrado");
